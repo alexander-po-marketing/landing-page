@@ -1,0 +1,57 @@
+/* Schema JSON-LD */
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://www.pharmaoffer.com/api-market-report",
+      "name": "API Market Report – Pharmaoffer",
+      "description": "Professional API Market Report providing price benchmarks, supplier intelligence, and negotiation-ready insights for pharmaceutical buyers.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Pharmaoffer"
+      },
+      "image": "https://via.placeholder.com/1200x800?text=API+Market+Report",
+      "sku": "PO-API-REPORT-001",
+      "category": "MarketResearchReport",
+      "offers": {
+        "@type": "Offer",
+        "price": "399",
+        "priceCurrency": "EUR",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.pharmaoffer.com/api-market-report",
+        "priceValidUntil": "2025-12-31"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.pharmaoffer.com/api-market-report#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What’s the difference between the report and Pro?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The report is a packaged PDF with insights. Pro gives live access to all APIs anytime."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How recent is the data?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Reports use the latest verified transactions, updated monthly."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I use this for internal presentations?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — all reports are designed to be boardroom-ready."
+          }
+        }
+      ]
+    }
+  ]
+}
