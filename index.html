@@ -323,24 +323,28 @@
 
     <section id="sample" class="section sample" aria-labelledby="sample-title">
       <div class="wrap sample__inner">
-        <div class="sample__content">
+        <div class="sample__promo">
           <h2 id="sample-title" class="section__title">Get the Sample Pages</h2>
-          <p>Leave your details and we will email the preview PDF instantly.</p>
+          <p class="sample__description">Leave your details and we will email the preview PDF instantly.</p>
+          <p class="sample__privacy">We’ll only use your email to send the sample and occasional product updates. Unsubscribe anytime.</p>
+        </div>
+        <div class="sample__form-card" aria-labelledby="sample-title">
           <form class="sample__form" novalidate>
             <div class="sample__field">
-              <label for="sample-name">Name</label>
-              <input id="sample-name" name="name" type="text" autocomplete="name" required>
+              <label class="sample__label" for="sample-name">Name</label>
+              <input class="sample__input" id="sample-name" name="name" type="text" autocomplete="name" required>
               <span class="sample__error" id="sample-name-error" role="alert"></span>
             </div>
             <div class="sample__field">
-              <label for="sample-email">Work email</label>
-              <input id="sample-email" name="email" type="email" autocomplete="work email" required>
+              <label class="sample__label" for="sample-email">Work email</label>
+              <input class="sample__input" id="sample-email" name="email" type="email" autocomplete="email" required>
               <span class="sample__error" id="sample-email-error" role="alert"></span>
             </div>
-            <button class="btn btn--primary" type="submit" data-cta="sample_submit" data-cta-label="Request Sample" data-cta-location="Sample">Send Sample</button>
+            <div class="sample__actions">
+              <button class="btn btn--primary btn--full" type="submit" data-cta="sample_submit" data-cta-label="Request Sample" data-cta-location="Sample">Send Sample</button>
+            </div>
           </form>
           <p class="sample__success" id="sample-success" role="status" hidden>Thank you! Your sample will arrive in your inbox shortly.</p>
-          <p class="sample__privacy narrow">We’ll only use your email to send the sample and occasional product updates. Unsubscribe anytime.</p>
         </div>
       </div>
     </section>
