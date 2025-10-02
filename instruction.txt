@@ -1,0 +1,67 @@
+Landing Page – API Market Report
+
+Hero Section (Above the fold)
+Headline:
+“Make smarter API sourcing decisions in minutes, not weeks.”
+Subhead:
+Get a professional API Market Report based on thousands of verified global transactions. All the insights you need to negotiate better deals, in one ready-to-use PDF.
+CTA Button: Get My Report Now (€399)
+
+Background visual: molecule + world map overlay, modern clean. 
+*** INPUT marc Style! See Figma inquiry style!
+
+Why Buy This Report? (USP Grid)
+Section Title:
+“Actionable intelligence, not just data.”
+3-column grid with icons:
+1.	Instant Price Benchmarks
+Verified average prices per volume bracket, based ave 5,000+ transactions per API.
+2.	Supplier Intelligence
+Overview of top manufacturers & distributors, with compliance flags (GMP, CEP, DMF).
+3.	Time-Saving Convenience
+All key insights in a boardroom-ready PDF you can share internally.
+
+What’s Inside? (Sample Preview)
+Section Title:
+“A snapshot of the market, delivered.”
+Visual mockup of report pages (Executive Summary, Price Chart, Supplier Table).
+Highlights underneath:
+•	Executive Summary & Negotiation Tips
+•	Price Trends & Volume Benchmarks
+•	Global Supply Landscape
+•	Demand Spikes & Seasonality
+•	Forward-Looking Insights
+CTA Button:
+Download Sample Pages (optional lead capture form here).
+
+Who Is This For?
+•	Procurement Managers → Benchmark and negotiate API sourcing.
+•	Supply Chain Teams → Support decisions with verified data.
+•	Consultants & Analysts → Add credibility to presentations.
+•	Occasional Buyers → One-time access without a subscription.
+
+Why Pharmaoffer?
+•	World’s largest verified API marketplace with 1.5M annual users.
+•	Data-driven insights from real transactions, not estimates.
+•	Trusted by global buyers and suppliers across 40+ countries.
+
+Upsell / Cross-Sell Section
+Box Title:
+“Looking for more API intelligence ?”
+•	Multi Api Report Discount 1000,-
+1000,- for 3 report
+•	Become PRO Subscriber B: Pharmaoffer Pro (€249/month)
+Unlock real-time data across 1,500+ APIs, supplier profiles, and unlimited benchmarks.
+•	Get API Quotes throughout Pharmaoffer:
+Special inquiry for Api quotation from our verified suppliers.
+CTA Buttons:
+👉 Buy Report Now
+👉 Subscribe to Pro
+
+📌 FAQ Section
+•	Q: What’s the difference between the report and Pro?
+A: The report is a packaged PDF with insights. Pro gives live access to all APIs anytime.
+•	Q: How recent is the data?
+A: Reports use the latest verified transactions, updated monthly.
+•	Q: Can I use this for internal presentations?
+A: Yes — all reports are designed to be boardroom-ready.
